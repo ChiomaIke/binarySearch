@@ -1,0 +1,27 @@
+{
+  "name": "search",
+  "version": "1.0.0",
+  "description": "prototype",
+  "main": "/app.library.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChiomaIke/binarySearch.git"
+  },
+  "keywords": [
+    "search"
+  ],
+  "author": "Chioma Ike",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChiomaIke/binarySearch/issues"
+  },
+  "homepage": "https://github.com/ChiomaIke/binarySearch#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "expect": "^1.20.2",
+    "mocha": "^3.2.0"
+  }
+}
